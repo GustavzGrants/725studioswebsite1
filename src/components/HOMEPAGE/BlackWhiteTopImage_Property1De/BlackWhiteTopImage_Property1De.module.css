@@ -1,0 +1,19 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 1000px;
+  height: 420px;
+  align-items: flex-start;
+}
+.a447B3F84B3F45398E4690CB18CC8A {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('/assets/a447B3F84B3F45398E4690CB18CC8A.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,19 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 1000px;
+  height: 410px;
+  align-items: flex-start;
+}
+._81BD44E16989415BB4FECD8C766788 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('/assets/_81BD44E16989415BB4FECD8C766788.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
